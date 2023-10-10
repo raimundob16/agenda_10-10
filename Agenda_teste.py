@@ -7,4 +7,3 @@ def cadastra_produto(usuarios,nome,telefone,email):
     usuarios.append(usuario)
     print("Usuario cadastrado com sucesso!")
     print("*************************************")
-    print("\n")
